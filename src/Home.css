@@ -1,5 +1,7 @@
 div {
     display:flex;
+    /* display: grid; */
+    /* grig-template-columns: 50px 50px; */
     flex-direction: column;
     flex-wrap: nowrap;
     background-color: blueviolet;
