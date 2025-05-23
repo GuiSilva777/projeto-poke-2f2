@@ -4,15 +4,9 @@ import './Home.css'
 
 const Home =()=>{
 
-    
+
     return (
         <div>
-            <img src={poke} />
-            <img src={eevee} />
-            <img src={poke} />
-            <img src={eevee} />
-            <img src={poke} />
-            <img src={eevee} />
             <img src={poke} />
             <img src={eevee} />
             <img src={poke} />
