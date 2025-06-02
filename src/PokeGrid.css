@@ -1,0 +1,18 @@
+div {
+    display:grid;
+    /* display: grid; */
+    /* grig-template-columns: 50px 50p 50px; */
+    flex-direction: column;
+    flex-wrap: nowrap;
+    background-color: blueviolet;
+    width: 500px;
+    height: 900px;
+    overflow: visible;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img {
+    width: 100px;
+    height: 80px;
+}
